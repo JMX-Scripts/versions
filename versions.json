@@ -3,7 +3,6 @@
     "JMX_Pausemenu":  "1.0.0",
     "JMX_Radialmenu-Creator":  "1.0.0",
     "Jmx_Safezone-Creator":  "1.0.0",
-    "JMX_Shop-Creator":  "1.0.0",
     "JMX_Adminmenu":  "1.0.0",
     "JMX_AirCam-Creator":  "1.0.0",
     "JMX_Entry-Creator":  "1.0.0",
@@ -12,5 +11,6 @@
     "JMX_Doors-Creator":  "1.0.0",
     "JMX_Printer-Creator":  "1.0.0",
     "Jmx_HudSystem":  "1.0.1",
-    "JMX_ReviveStation-Creator":  "1.0.1"
+    "JMX_ReviveStation-Creator":  "1.0.1",
+    "JMX_Shop-Creator":  "1.0.1"
 }
