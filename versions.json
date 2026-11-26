@@ -4,7 +4,6 @@
     "JMX_Safezone-Creator":  "1.0.0",
     "JMX_Entry-Creator":  "1.0.0",
     "JMX_Billboard-Creator":  "1.0.0",
-    "JMX_WeatherZone":  "1.0.0",
     "JMX_FuelStation-Creator":  "1.0.0",
     "JMX_Casino-Creator":  "1.0.0",
     "JMX_ReviveStation-Creator":  "1.0.4",
@@ -15,5 +14,6 @@
     "Jmx_HudSystem":  "1.0.7",
     "JMX_AirCam-Creator":  "1.0.4",
     "JMX_Radialmenu-Creator":  "1.0.1",
-    "JMX_Text-Ui-Creator":  "1.0.1"
+    "JMX_Text-Ui-Creator":  "1.0.1",
+    "JMX_WeatherZone":  "1.0.3"
 }
